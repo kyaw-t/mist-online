@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/mist-online/static/css/main.073c9b0a.css",
-    "main.js": "/mist-online/static/js/main.98796f77.js",
+    "main.css": "/mist-online/static/css/main.7cdf4319.css",
+    "main.js": "/mist-online/static/js/main.f81dd568.js",
     "static/js/787.49550773.chunk.js": "/mist-online/static/js/787.49550773.chunk.js",
-    "static/media/logo.svg": "/mist-online/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/mist-online/index.html",
-    "main.073c9b0a.css.map": "/mist-online/static/css/main.073c9b0a.css.map",
-    "main.98796f77.js.map": "/mist-online/static/js/main.98796f77.js.map",
+    "main.7cdf4319.css.map": "/mist-online/static/css/main.7cdf4319.css.map",
+    "main.f81dd568.js.map": "/mist-online/static/js/main.f81dd568.js.map",
     "787.49550773.chunk.js.map": "/mist-online/static/js/787.49550773.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.98796f77.js"
+    "static/css/main.7cdf4319.css",
+    "static/js/main.f81dd568.js"
   ]
 }
