@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mist-online/static/css/main.c600771e.css",
-    "main.js": "/mist-online/static/js/main.8a56e5ed.js",
+    "main.js": "/mist-online/static/js/main.33f325f9.js",
     "static/js/787.49550773.chunk.js": "/mist-online/static/js/787.49550773.chunk.js",
     "index.html": "/mist-online/index.html",
     "main.c600771e.css.map": "/mist-online/static/css/main.c600771e.css.map",
-    "main.8a56e5ed.js.map": "/mist-online/static/js/main.8a56e5ed.js.map",
+    "main.33f325f9.js.map": "/mist-online/static/js/main.33f325f9.js.map",
     "787.49550773.chunk.js.map": "/mist-online/static/js/787.49550773.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c600771e.css",
-    "static/js/main.8a56e5ed.js"
+    "static/js/main.33f325f9.js"
   ]
 }
