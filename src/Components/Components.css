@@ -1,0 +1,125 @@
+.test-module{
+    width:80vw;
+    height:60vh;
+    display:flex;
+    flex-direction:column;
+    justify-content: space-evenly;
+}
+
+
+.settings-module{
+    width:80vw;
+    min-height:60vh;
+    display:flex;
+    flex-direction: column;
+    justify-content:start;
+    font-size:small;
+    padding-left: 10vw;
+    padding-right:10vw;
+}
+
+.settings-input{
+    max-width:"50px"
+}
+
+.organize-row{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 5vh;
+}
+
+.organize-row-settings{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    padding-bottom: 5vh;
+}
+
+.solution-card{
+    background-color: rgb(251, 251, 251);
+    width:6vw;
+    min-height:7vh;
+    font-weight: bold;
+    font-size: 1.3em;
+    border-color:  rgb(251, 251, 251);
+    border-style:solid;
+    border-width: 0.1em;
+    border-radius: 0.2em;
+}
+
+.r-modal{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 65vh;
+    width:"100%";
+    align-items: baseline;
+    font-size: 3rem;
+    font-weight: bold;
+
+}
+
+.a-modal{
+        animation-name: shake;
+    animation-duration: 0.12s;
+    animation-iteration-count: 6;
+    padding: 0;
+
+}
+@keyframes shake {
+    0% {
+      transform: translateX(0);
+    }
+    25% {
+      transform: translateX(-5px);
+    }
+    50% {
+      transform: translateX(0);
+    }
+    75% {
+      transform: translateX(5px);
+    }
+    100% {
+      transform: translateX(0);
+    }
+  }
+
+.blink {
+    animation: blinker .75s linear infinite;
+    font-family: sans-serif;
+}
+@keyframes blinker {
+    50% {
+        opacity: 0;
+    }
+}
+
+.err-icon {
+    opacity: 0;
+    transform: scale(1.2);
+    animation-name: fade-in-shrink;
+    animation-duration: 0.65s;
+    animation-fill-mode: forwards;
+  }
+  
+  @keyframes fade-in-shrink {
+    from {
+      opacity: 0.5;
+      transform: scale(13);
+    }
+    to {
+      opacity: 1;
+      transform: scale(2);
+    }
+  }
+
+.mantine-Modal-modal{
+    /* animation-name: shake;
+    animation-duration: 0.12s;
+    animation-iteration-count: 6; */
+    padding: 0;
+    opacity: 0.5;
+    background-color: transparent;
+}
