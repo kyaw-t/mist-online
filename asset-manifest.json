@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mist-online/static/css/main.32810f99.css",
-    "main.js": "/mist-online/static/js/main.287ee948.js",
+    "main.js": "/mist-online/static/js/main.1bdc10ba.js",
     "static/js/787.49550773.chunk.js": "/mist-online/static/js/787.49550773.chunk.js",
     "static/media/errsfx.mp3": "/mist-online/static/media/errsfx.962d0e56c4dfede0f5f5.mp3",
     "static/media/KaTeX_AMS-Regular.ttf": "/mist-online/static/media/KaTeX_AMS-Regular.853be92419a6c3766b9a.ttf",
@@ -67,11 +67,11 @@
     "static/media/KaTeX_Size3-Regular.woff2": "/mist-online/static/media/KaTeX_Size3-Regular.e1951519f6f0596f7356.woff2",
     "index.html": "/mist-online/index.html",
     "main.32810f99.css.map": "/mist-online/static/css/main.32810f99.css.map",
-    "main.287ee948.js.map": "/mist-online/static/js/main.287ee948.js.map",
+    "main.1bdc10ba.js.map": "/mist-online/static/js/main.1bdc10ba.js.map",
     "787.49550773.chunk.js.map": "/mist-online/static/js/787.49550773.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.32810f99.css",
-    "static/js/main.287ee948.js"
+    "static/js/main.1bdc10ba.js"
   ]
 }
